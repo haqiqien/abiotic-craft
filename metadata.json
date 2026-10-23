@@ -1,0 +1,6 @@
+{
+  "name": "Alkimia Benda Mati & Teknologi",
+  "description": "Game puzzle alkimia mobile-first bertema sintesis mineral, fenomena alam, material, dan rekayasa teknologi canggih dengan fitur simpan otomatis dan buku petunjuk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
